@@ -1,0 +1,26 @@
+Create a Full Responsive Music Band website with 4 Page
+1. Homepage Page:
+	a. Banner (Full wide)
+	b. Band details
+	c. Members profile
+	d. Fan's feedback
+	e. Gallery (Minimum 6 items)
+2. About us Page:
+	a. Staff profile with text (3 Staff)
+	b. About company with images.
+3. Contact us Page:
+	a. Contact form
+	b. Contact Information (Address, Email, Phone number)
+4. FAQ Page:
+	a. Beautiful Collapsible 5 question & answer using JavaScript
+5. Full container wide navigation menu with mouse hover effect
+6. Confirmation popup window when submit the contact form
+7. CSS framework
+8. Unordered list of food items using CSS styles (Background color, Hover effect, Border, Radius, without using framework help)
+9. External link with 'target' blank attribute
+10. Current Date & Time using Javascript
+11. Include External CSS & JavaScript file
+12. Internal pages linking
+
+Example Site : 
+https://soulsbd.com/biography/

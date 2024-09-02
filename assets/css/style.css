@@ -1,0 +1,85 @@
+/* common css start */
+.bg-color-primary {
+  background: #cdf7c3;
+}
+.bg-color-secondary {
+  background: #a9f0e1;
+}
+
+.bg-color-dark {
+  background: #000000;
+}
+
+.bg-color-footer {
+  background: #000000;
+}
+
+/* common css end */
+
+/* Navbar CSS Start */
+.active {
+  color: red !important;
+}
+.navbar-nav li a {
+  color: #fff;
+}
+.navbar-nav li a:hover {
+  color: red;
+}
+/* Navbar CSS End */
+
+/* testimonial start */
+
+.card {
+  border: none;
+}
+
+.user-content p {
+  margin-top: 5px;
+  font-size: 12px;
+}
+
+.ratings i {
+  color: blue;
+}
+/* testimonial end */
+
+/* date time css start */
+#date-time {
+  font-size: 18px;
+  color: #fff;
+  font-weight: 500;
+}
+/* date time css start */
+
+/* Contact Page CSS Start */
+.contact-address ul {
+  padding: 0px;
+  & li {
+    color: white;
+    list-style: none;
+    margin-bottom: 5px;
+    padding: 15px;
+    background: #0a2c91;
+    cursor: pointer;
+    &:hover {
+      background: red;
+    }
+  }
+  & a {
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+    transition: 0.5s linear;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
+/* Contact Page CSS End */
+
+.navbar-toggler {
+  background-color: white;
+}
